@@ -1,5 +1,5 @@
 <?php
-
+// This is branch controller
 namespace App\Http\Controllers;
 
 use App\Models\Branch;
